@@ -15,7 +15,7 @@
 - Tokyo tower
 - Tokyo skytree
 - Ginza： 银座
-  -   
+  - Ginza Stake： 和牛铁板烧 ⭐
 - Mount Fuji ⭐
 - Meiji Jinqu： 明治神宫
   
