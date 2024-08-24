@@ -12,8 +12,11 @@
 ## Tokoyo
 - Asakusa: 浅草寺 ⭐
 - Kabukicho： 歌舞伎町
+- Tokyo tower
+- Tokyo skytree
 - Ginza： 银座
   -   
 - Mount Fuji ⭐
-- 
+- Meiji Jinqu： 明治神宫
+  
 
