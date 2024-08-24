@@ -11,5 +11,9 @@
 
 ## Tokoyo
 - Asakusa: 浅草寺 ⭐
+- Kabukicho： 歌舞伎町
+- Ginza： 银座
+  -   
 - Mount Fuji ⭐
+- 
 
