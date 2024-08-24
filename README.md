@@ -7,6 +7,7 @@
 - kinosaki onsen： 城崎温泉
 - Lake Biwa： 琵琶湖
 - Yasaka shine： 八坂神社
+- Shinsai Bashi： 心斋桥
 
 ## Tokoyo
 - Asakusa: 浅草寺 ⭐
