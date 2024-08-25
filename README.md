@@ -33,6 +33,7 @@
   - Rokkasen： 六歌仙， 烧烤放题
   - miura no hambagu： 三浦汉堡
   - Toriki 烧鸟  - 需要订位
+  - 喜助 牛舌
 
 ## 行装：
 全部不用带？直接niqlo 买？
