@@ -25,6 +25,7 @@
   - Tokyo skytree
   - Mount Fuji ⭐
   - 河口湖
+  - 新宿御苑
   - Meiji Jinqu： 明治神宫
   - uniqlo 旗舰店
 - ### Restaurant：
