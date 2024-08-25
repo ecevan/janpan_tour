@@ -2,6 +2,7 @@
 
 ## Kyoto
 - ### Viewpoint:
+  - Osaka Castle Park：⭐
   - Katsuoji： 胜尾寺 ⭐
   - Fushimi Inari： 千鸟居/伏见稻荷 ⭐
   - Arashiyama: 岚山 ⭐
