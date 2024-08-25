@@ -10,7 +10,7 @@
   - Lake Biwa： 琵琶湖
   - Yasaka shine： 八坂神社
   - Shinsai Bashi： 心斋桥
-    - 主要是药妆店  
+    - 主要是药妆店， 小店  
   - Hanamikoji-dori： 花见小路
 - ### Restaurant:
   - HIRAISHI 天妇罗 平石: 需要订位
