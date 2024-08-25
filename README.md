@@ -15,7 +15,7 @@
   - HIRAISHI 天妇罗 平石: 需要订位
   - Konoha 天妇罗: 需要订位
   - Gion Uokeya U 鳗鱼饭 ⭐
-
+  - 函太郎迴轉壽司 大版
 
 ## Tokoyo
 - ### Viewpoint：
@@ -40,6 +40,7 @@
   - Sushi Tokyo Ten 平民 omakase 寿司
   - 果實園
     - 涩谷
+
   
 ## 行装：
 全部不用带？直接niqlo 买？
