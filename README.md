@@ -9,6 +9,7 @@
   - Lake Biwa： 琵琶湖
   - Yasaka shine： 八坂神社
   - Shinsai Bashi： 心斋桥
+  - Hanamikoji-dori： 花见小路
 - ### Restaurant:
   - HIRAISHI 天妇罗 平石: 需要订位
   - Konoha 天妇罗: 需要订位
