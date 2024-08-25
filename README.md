@@ -12,6 +12,7 @@
 - ### Restaurant:
   - HIRAISHI 天妇罗 平石: 需要订位
   - Konoha 天妇罗: 需要订位
+  - Gion Uokeya U 鳗鱼饭 ⭐
 
 
 ## Tokoyo
