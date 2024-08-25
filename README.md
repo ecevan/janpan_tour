@@ -49,6 +49,10 @@
 # Atami 热海
 - ## sacation
   - Wa亭風こみち ｜Watei Kazekomichi
+ 
+# Mount Fuji ⭐
+- ## Viewpoint:
+  - 河口湖
 
   
 ## 行装：
