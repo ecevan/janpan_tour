@@ -28,6 +28,7 @@
   - 新宿御苑
   - Meiji Jinqu： 明治神宫
   - uniqlo 旗舰店
+  - 涩谷 sky
 - ### Restaurant：
   - Ginza： 银座
     - Ginza Stake： 和牛铁板烧 ⭐
@@ -36,7 +37,8 @@
   - miura no hambagu： 三浦汉堡
   - Toriki 烧鸟  - 需要订位
   - 喜助 牛舌
-
+  - Sushi Tokyo Ten 平民 omakase 寿司
+  
 ## 行装：
 全部不用带？直接niqlo 买？
 
