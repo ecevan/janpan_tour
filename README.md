@@ -25,6 +25,7 @@
   - Tokyo skytree
   - Mount Fuji ⭐
   - Meiji Jinqu： 明治神宫
+  - uniqlo 旗舰店
 - ### Restaurant：
   - Ginza： 银座
     - Ginza Stake： 和牛铁板烧 ⭐
