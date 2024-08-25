@@ -15,16 +15,17 @@
 
 
 ## Tokoyo
-- Asakusa: 浅草寺 ⭐
-- Kabukicho： 歌舞伎町
-- Tokyo tower
-- Tokyo skytree
-- Mount Fuji ⭐
-- Meiji Jinqu： 明治神宫
-### Restaurant
-- Ginza： 银座
-  - Ginza Stake： 和牛铁板烧 ⭐
-  - Ginza Katsukami： 吉利猪扒 ⭐
-- Rokkasen： 六歌仙， 烧烤放题
-- miura no hambagu： 三浦汉堡
-- Toriki 烧鸟  - 需要订位
+- ### Viewpoint：
+  - Asakusa: 浅草寺 ⭐
+  - Kabukicho： 歌舞伎町
+  - Tokyo tower
+  - Tokyo skytree
+  - Mount Fuji ⭐
+  - Meiji Jinqu： 明治神宫
+- ### Restaurant：
+  - Ginza： 银座
+    - Ginza Stake： 和牛铁板烧 ⭐
+    - Ginza Katsukami： 吉利猪扒 ⭐
+  - Rokkasen： 六歌仙， 烧烤放题
+  - miura no hambagu： 三浦汉堡
+  - Toriki 烧鸟  - 需要订位
