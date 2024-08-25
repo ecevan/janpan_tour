@@ -26,7 +26,8 @@
   - Tokyo skytree
   - Mount Fuji ⭐
     - 河口湖
-  - 上野公园
+  - 上野恩赐公园
+    - 和伊豆荣鳗鱼饭很近
   - 新宿御苑
   - Meiji Jinqu： 明治神宫
   - uniqlo 旗舰店
