@@ -1,5 +1,12 @@
 # Japan Tour
 
+## Travel Plan：
+- Nov 23:
+  - 6:00 am: landing
+  - 8:00 am:      
+
+
+
 ## Kyoto
 - ### Viewpoint:
   - Osaka Castle Park：⭐
