@@ -52,6 +52,9 @@
   - Sushi Tokyo Ten 平民 omakase 寿司
   - 果實園
     - 涩谷
+   
+- ### hotel
+  - 千禧三井  
 
 # Atami 热海
 - ## sacation
