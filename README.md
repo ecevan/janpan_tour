@@ -54,7 +54,9 @@
     - 涩谷
    
 - ### hotel
-  - 千禧三井  
+  - 千禧三井: 楼下地铁站
+  - KOKO HOTEL Ginza 1-chome： 地铁站步行6分钟
+  - 	
 
 # Atami 热海
 - ## sacation
