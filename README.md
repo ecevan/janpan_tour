@@ -1,4 +1,4 @@
-# Japan Tour
+huiapan Tour
 
 ## Travel Plan：
 - Nov 23:
@@ -77,6 +77,9 @@ check list：
 
 ## 交通：
 - 西瓜卡
+
+## 机酒：
+
 
 ## 通信：
 
