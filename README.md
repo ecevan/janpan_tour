@@ -79,6 +79,9 @@ check list：
 - 西瓜卡
 
 ## 机酒：
+![image](https://github.com/user-attachments/assets/b136d4b4-bb43-4088-ba88-9511f5d484cb)
+
+
 
 
 ## 通信：
