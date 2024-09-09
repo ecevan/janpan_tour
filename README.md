@@ -2,8 +2,11 @@
 
 ## Travel Plan：
 - Nov 23:
-  - 6:00 am: landing
-  - 8:00 am:     
+  - landing
+  - 早餐：
+  - 午餐：伊豆荣 
+  - 上野恩赐公园
+  - 
 
 
 
