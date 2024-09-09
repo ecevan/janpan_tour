@@ -6,8 +6,10 @@
   - 早餐：
   - Ginza
   - 午餐： Ginza stake 和牛铁板烧 ⭐
+  - Uniqlo/Muji/鬼冢虎 
   - 眼睛店
   - Ginza Katsukami： 吉利猪扒 ⭐
+  - 
 
 - Nov 24：
   - 午餐：伊豆荣 
