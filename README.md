@@ -1,9 +1,9 @@
-huiapan Tour
+# Japan Tour
 
 ## Travel Plan：
 - Nov 23:
   - 6:00 am: landing
-  - 8:00 am:      
+  - 8:00 am:     
 
 
 
