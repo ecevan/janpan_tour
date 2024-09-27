@@ -22,6 +22,7 @@
     - 建议晚上去？人少，出片 
 
 - Nov 24：
+  - Ghibli Museum, 1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013, Japan
   - 午餐：伊豆荣 
   - 上野恩赐公园
   - 阿美横丁 - 上中商业街
