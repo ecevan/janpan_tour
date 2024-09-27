@@ -9,7 +9,9 @@
   - Uniqlo/Muji/鬼冢虎 
   - 眼睛店
   - Ginza Katsukami： 吉利猪扒 ⭐
-  - 
+  - 入住
+    - Tokyu Stay Nishi Shinjuku
+      - 5-9-8 Nishi-Shinjuku, Tokyo, 160-0023 Japan [expedia link](https://www.expedia.com/trips/egti-UPP-7Y6-QDBA/details/MmVmMGU5NzgtODU2Zi01YTU1LWIxOWUtZmUwNGE5NDRkZWQ3O2RjZjQ2YjlkLTg4YWItNDliNC04ZWU0LTgwZDVkMmM3ZTkyMF8w) 
 
 - Nov 24：
   - 午餐：伊豆荣 
