@@ -11,7 +11,14 @@
   - Ginza Katsukami： 吉利猪扒 ⭐
   - 入住
     - Tokyu Stay Nishi Shinjuku
-      - 5-9-8 Nishi-Shinjuku, Tokyo, 160-0023 Japan [expedia link](https://www.expedia.com/trips/egti-UPP-7Y6-QDBA/details/MmVmMGU5NzgtODU2Zi01YTU1LWIxOWUtZmUwNGE5NDRkZWQ3O2RjZjQ2YjlkLTg4YWItNDliNC04ZWU0LTgwZDVkMmM3ZTkyMF8w) 
+      - 5-9-8 Nishi-Shinjuku, Tokyo, 160-0023 Japan
+      - [expedia link](https://www.expedia.com/trips/egti-UPP-7Y6-QDBA/details/MmVmMGU5NzgtODU2Zi01YTU1LWIxOWUtZmUwNGE5NDRkZWQ3O2RjZjQ2YjlkLTg4YWItNDliNC04ZWU0LTgwZDVkMmM3ZTkyMF8w)
+  - 东京塔
+    - 赤羽桥站
+    - 芝公园
+    - 六本木站3号出口
+  - 浅草寺
+    - 建议晚上去？人少，出片 
 
 - Nov 24：
   - 午餐：伊豆荣 
