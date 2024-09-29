@@ -59,6 +59,9 @@
   - 壽司天Sushi Tokyo Ten ([訂位](http://sushitokyo-ten.com))
   - 甜品： 果宾园
 
+手信：
+sugar butter tree
+nama chocolate 
 
 ![909039927534999395](https://github.com/user-attachments/assets/f056851d-9ef6-47ce-8ee5-4d3bd297d531)
 
