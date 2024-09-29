@@ -29,7 +29,7 @@
  
 - Nov 25：
   - 六本木
-  - 壽司天Sushi Tokyo Ten
+  - 壽司天Sushi Tokyo Ten([訂位](http://sushitokyo-ten.com))
   - 芝公园 - 增上寺
   - 国立新美术馆
   - 晚上
@@ -56,7 +56,7 @@
   - 午餐：うどん山長
   - 廻転鮨 
     - 東京都涉谷區神宮前5-1-6 イルパラッツィーノ表参道 1F
-  - 壽司天Sushi Tokyo Ten
+  - 壽司天Sushi Tokyo Ten ([訂位](http://sushitokyo-ten.com))
 
 
 ![909039927534999395](https://github.com/user-attachments/assets/f056851d-9ef6-47ce-8ee5-4d3bd297d531)
