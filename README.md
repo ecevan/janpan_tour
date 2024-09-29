@@ -141,5 +141,3 @@ check list：
 
 ## 通信：
 
-
-![image](https://github.com/user-attachments/assets/90d60dae-841b-40a2-a7ca-08726d08c254)
