@@ -9,6 +9,7 @@
   - Uniqlo/Muji/鬼冢虎 
   - 眼睛店
   - Ginza Katsukami： 吉利猪扒 ⭐
+  - 俺の焼肉 銀座9丁目
   - 入住
     - Tokyu Stay Tsukiji (Tokyo Ginza Area)
       - Tsukiji 4-11-5, Chuo-ku, Tokyo, Tokyo-to, 104-0045
@@ -16,12 +17,12 @@
   - 浅草寺
     - 建议晚上去？人少，出片
   - 秋叶原
+  - 肉屋橫丁 秋葉原
 
 - Nov 24：
   - Ghibli Museum, 1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013, Japan
   - 午餐：伊豆荣 
   - 上野恩赐公园
-
   - 阿美横丁 - 上中商业街
   - 晚餐：六歌仙， 新宿
   - 歌舞伎町
@@ -43,6 +44,14 @@
     - 翠云
     - 1300-61 Gora, Hakone, Kanagawa, 250-0408 Japan
     - [expedia link](https://www.expedia.com/trips/egti-UPP-7Y6-QDBA/details/ZDBlYWU0ZWEtZTBjMS01NjZkLTgyYWEtYWNjZGZlNjQ2ZGY4O2U4NDUzNmM5LTg0MmUtNDg1OC1iYWI1LTY3OTllMGU4MDE4Y18w)
+- Nov 27:
+  - 横滨
+- Nov 28：
+  - 箱根
+- Nov 29：
+  - 涩谷
+  - 午餐：うどん山長
+  - 
 
 
 ![909039927534999395](https://github.com/user-attachments/assets/f056851d-9ef6-47ce-8ee5-4d3bd297d531)
