@@ -1,4 +1,4 @@
-![909039927534999395](https://github.com/user-attachments/assets/30b4bd59-16bf-4128-ada3-bef9612f567e)# Japan Tour
+# Japan Tour
 
 ## Travel Plan：
 - Nov 23:
