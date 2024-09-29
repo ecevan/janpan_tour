@@ -1,4 +1,4 @@
-# Japan Tour
+![909039927534999395](https://github.com/user-attachments/assets/30b4bd59-16bf-4128-ada3-bef9612f567e)# Japan Tour
 
 ## Travel Plan：
 - Nov 23:
@@ -13,26 +13,30 @@
     - Tokyu Stay Tsukiji (Tokyo Ginza Area)
       - Tsukiji 4-11-5, Chuo-ku, Tokyo, Tokyo-to, 104-0045
       - [expedia link](https://www.expedia.com/trips/egti-UPP-7Y6-QDBA/details/M2NlYzAxMWItNjI0ZC01ZTE5LTljZTQtN2ZkMzVhNGM2YzU3Ozg1NWY4YzY2LTlkZDQtNDQ3Yi04MDNkLWE5MmFiOTIxN2Q0N18w)
-  - 东京塔
-    - 赤羽桥站
-    - 芝公园
-    - 六本木站3号出口
-    - 神谷町一号出口
   - 浅草寺
-    - 建议晚上去？人少，出片 
+    - 建议晚上去？人少，出片
+  - 秋叶原
 
 - Nov 24：
   - Ghibli Museum, 1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013, Japan
   - 午餐：伊豆荣 
   - 上野恩赐公园
+
   - 阿美横丁 - 上中商业街
   - 晚餐：六歌仙， 新宿
   - 歌舞伎町
  
 - Nov 25：
-  - Ghibli Museum, 1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013, Japan
-  - 
+  - 涩谷商业区
+  - 东京塔
+    - 赤羽桥站
+    - 芝公园
+    - 六本木站3号出口
+    - 神谷町一号出口
+  - 六本木
 
+
+![909039927534999395](https://github.com/user-attachments/assets/f056851d-9ef6-47ce-8ee5-4d3bd297d531)
 
 
 ## Kyoto
