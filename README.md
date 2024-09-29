@@ -37,6 +37,12 @@
       - 六本木站3号出口
       - 神谷町一号出口
     - 六本木
+- Nov 26：
+  - 箱根
+  - 入住
+    - 翠云
+    - 1300-61 Gora, Hakone, Kanagawa, 250-0408 Japan
+    - [expedia link](https://www.expedia.com/trips/egti-UPP-7Y6-QDBA/details/ZDBlYWU0ZWEtZTBjMS01NjZkLTgyYWEtYWNjZGZlNjQ2ZGY4O2U4NDUzNmM5LTg0MmUtNDg1OC1iYWI1LTY3OTllMGU4MDE4Y18w)
 
 
 ![909039927534999395](https://github.com/user-attachments/assets/f056851d-9ef6-47ce-8ee5-4d3bd297d531)
