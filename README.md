@@ -6,7 +6,7 @@
   - 早餐：
   - Ginza
   - 午餐： Ginza stake 和牛铁板烧 ⭐
-  - noix de beurre
+  - noix de beurre 甜品
   - Uniqlo/Muji/鬼冢虎 
   - 眼睛店
   - Ginza Katsukami： 吉利猪扒 ⭐
