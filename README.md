@@ -50,13 +50,14 @@
     - [expedia link](https://www.expedia.com/trips/egti-UPP-7Y6-QDBA/details/ZDBlYWU0ZWEtZTBjMS01NjZkLTgyYWEtYWNjZGZlNjQ2ZGY4O2U4NDUzNmM5LTg0MmUtNDg1OC1iYWI1LTY3OTllMGU4MDE4Y18w)
   - 
 
-
- 
 - Nov 27:
   - 箱根神社
   - 箱根海贼船
   - 大涌谷
   - 横滨
+  - 入住：
+    - Inter Continental Yokohama Grand
+    - 1-1-1 Minatomirai Nishi-Ku, Yokohama, Kanagawa 220-8522 Japan
 - Nov 28：
   - 镰仓
 - Nov 29：
