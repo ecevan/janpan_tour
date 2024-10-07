@@ -60,6 +60,11 @@
   - 表参道
   - 壽司天Sushi Tokyo Ten ([訂位](http://sushitokyo-ten.com))
   - 甜品： 果宾园
+- Nov 30:
+  - 天气好的话：
+    - 河口湖
+  - 天气不好：
+    - 逛街 
 
 手信：
 sugar butter tree
