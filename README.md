@@ -42,17 +42,20 @@
     - 六本木
 
 - Nov 26：
-  - 箱根
-  - 寄存
+  - 御店场奥莱
   - 雕刻之森美术馆
-  - 大涌谷
-  - 箱根海贼船
-  - 箱根神社
-  - 入住
+   - 入住
     - 翠云
     - 1300-61 Gora, Hakone, Kanagawa, 250-0408 Japan
     - [expedia link](https://www.expedia.com/trips/egti-UPP-7Y6-QDBA/details/ZDBlYWU0ZWEtZTBjMS01NjZkLTgyYWEtYWNjZGZlNjQ2ZGY4O2U4NDUzNmM5LTg0MmUtNDg1OC1iYWI1LTY3OTllMGU4MDE4Y18w)
+  - 
+
+
+ 
 - Nov 27:
+  - 箱根神社
+  - 箱根海贼船
+  - 大涌谷
   - 横滨
 - Nov 28：
   - 镰仓
